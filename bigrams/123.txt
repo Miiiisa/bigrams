@@ -1,0 +1,242 @@
+The importance of cybersecurity in facilitating productive remote work was a significant catalyst for the two years-worth of digital transformation we observed in the first two months of the COVID-19 pandemic. In this era of ubiquitous computing, security solutions don’t just sniff out threats, they serve as control planes for improving productivity and collaboration by giving end-users easier access to more corporate resources. Microsoft recently concluded a survey of nearly 800 business leaders of companies of more than 500 employees in India (IN), Germany (DE), the United Kingdom (UK) and the United States (US) to better understand their views of the pandemic threat landscape, implications for budgets and staffing, and how they feel the pandemic could reshape the cyber-security long-term.
+
+Among the key insights are data showing that an alarming number of businesses are still impacted by phishing scams, security budgets, and hiring increased in response to COVID-19, and cloud-based technologies and architectures like Zero Trust are significant areas of investment moving forward.
+
+Improving Productivity & Mitigating Threats
+Security and IT teams have been working overtime to meet business goals while simultaneously staying ahead of new threats and scams. “Providing secure remote access to resources, apps, and data” is the #1 challenge reported by security leaders. For many businesses, the limits of the trust model they had been using, which leaned heavily on company-managed devices, physical access to buildings, and limited remote access to select line-of-business apps, got exposed early on in the pandemic. This paradigm shift has been most acute in the limitations of basic username/password authentication. As a result, when asked to identify the top security investment made during the pandemic the top response was Multi-factor authentication (MFA).
+
+An graph of the Top 5 Cybersecurity Investments Since Beginning of Pandemic.
+
+In other ways, pandemic security risks feel all too familiar. Asked to identify their best pre-pandemic security investment, most identified anti-phishing technology.  Microsoft Threat Intelligence teams reported a spike in COVID-19 attacks in early March as cybercriminals applied pandemic themed lures to known scams and malware. Business leaders reported phishing threats as the biggest risk to security in that same timeframe, with 90% of indicating that phishing attacks have impacted their organization. More than half said clicking on phishing emails was the highest risk behavior they observed and a full 28% admitted that attackers had successfully phished their users.  Notably, successful phishing attacks were reported in significantly higher numbers from organizations that described their resources as mostly on-premises (36%) as opposed to being more cloud-based.
+
+A graphic of the prevalence of successful phishing attacks.
+
+An image of prevalence of successful phishing attacks
+
+Security Impacting Budgets and Staffing
+The role of security in remote work is having a direct impact on security budgets and staffing in 2020 as businesses scale existing solutions, enabling critical new capabilities like MFA, and implement a Zero Trust strategy. In order to adapt to the many business implications of the pandemic, a majority of business leaders reported budget increases for security (58%) and compliance (65%). At the same time, 81% also report feeling pressure to lower overall security costs.  Business leaders from organizations with resources mostly on-premises are especially likely to feel budget pressure, with roughly 1/3rd feeling ‘very pressured.’
+
+To rein in expenses in the short-term, leaders say they are working to improve integrated threat protection to reduce the risk of costly breaches and acquire security solutions with self-help options for users to drive efficiency. In the longer-term, nearly 40% of businesses say they are prioritizing investments in Cloud Security (Cloud Access Security Broker, Cloud Workload Protection Platform, Cloud Security Posture Management), followed by Data & Information Security (28%) and anti-phishing tools (26%).
+
+A graph of cybersecurity budget changes in response to the pandemic.
+
+Technology alone cannot keep pace with the threats and demands facing businesses and their largely remote workforces. Human security expertise is at a premium with more than 80% of companies adding security professionals in response to COVID-19.
+
+A graph of changes to cybersecurity staffing due to pandemic.
+
+5 Ways the Pandemic is Changing Cybersecurity long-term
+The pandemic has accelerated digital transformation is several ways that are likely to change the security paradigm for the foreseeable future.
+
+1. Security has proven to be the foundation for digital empathy in a remote workforce during the pandemic. When billions of people formed the largest remote workforce in history, overnight, teams learned much more than how to scale Virtual Private Networks. Companies were reminded that security technology is fundamentally about improving productivity and collaboration through inclusive end-user experiences. Improving end-user experience and productivity while working remotely is the top priority of security business leaders (41%), with “extend security to more apps for remote work” identified as the most positively received action by users. Not surprisingly, then, “providing secure remote access to resources, apps, and data” is the biggest challenge. For many businesses, the journey begins with MFA adoption.
+
+2. Everyone is on a Zero Trust journey. Zero Trust shifted from an option to a business priority in the early days of the pandemic. In light of the growth in remote work, 51% of business leaders are speeding up the deployment of Zero Trust capabilities. The Zero Trust architecture will eventually become the industry standard, which means everyone is on a Zero Trust journey. That reality is reflected in the numbers like 94% of companies report that they are in the process of deploying new Zero Trust capabilities to some extent.
+
+An graph of the impact of pandemic on organizational view of Zero Trust.
+
+3. Diverse data sets mean better Threat Intelligence. The pandemic illustrated the power and scale of the cloud as Microsoft tracked more than 8 trillion daily threat signals from a diverse set of products, services, and feeds around the globe. A blend of automated tools and human insights helped to identify new COVID-19 themed threats before they reached customers – sometimes in a fraction of a second. In other cases, cloud-based filters and detections alert security teams to suspicious behavior. Not surprisingly, 54% of security leaders reported an increase in phishing attacks since the beginning of the pandemic.
+
+4. Cyber resilience is fundamental to business operations. Cybersecurity provides the underpinning to operationally resiliency as more organizations enable secure remote work options. To maintain cyber resilience, businesses need to regularly evaluate their risk threshold and ability to execute cyber resilience processes through a combination of human efforts and technology products and services. The cloud makes developing a comprehensive Cyber Resilience strategy and preparing for a wide range of contingencies simpler.
+
+More than half of cloud forward and hybrid companies report having cyber-resilience strategy for most risk scenarios compared to 40% of primarily on-premises organization. 19% of companies relying primarily upon on-premises technology do not expect to maintain a documented cyber-resilience plan.
+
+5. The cloud is a security imperative. Where people often thought about security as a solution to deploy on top of existing infrastructure, events like Covid-19 showcase the need for truly integrated security for companies of all sizes. As a result, integrated security solutions are now seen as imperative.
+
+A graph of the top 5 cybersecurity investments through the end of 2020. 
+
+These insights from security leaders echo many of the best practices that Microsoft has been sharing with customers and working around the clock to help them implement. The bottom line is that the pandemic is clearly accelerating the digital transformation of cyber-security. Microsoft is here to help.  If any of the insights we’ve shared today resonate with you and your teams, here are a few things you should consider
+
+Listen to employees and take steps to build digital empathy. Enabling self-help options is a win-win for end-users and IT.
+Hire diverse security talent and empower them with great threat intelligence and tools.
+Embrace the reality that remote work is having a lasting impact on the security paradigm. Lean into the power of the cloud for built-in security spanning endpoints to the cloud.
+To learn more about Microsoft Security solutions visit our website.  Bookmark the Security blog to keep up with our expert coverage on security matters. Also, follow us at @MSFTSecurity for the latest news and updates on cybersecurity.
+
+
+
+
+Now that we’ve passed the midpoint in 2020, one thing in the cybersecurity world has become crystal clear: The need for better security within public clouds must be addressed by enterprises once and for all, and that entails cryptography.
+
+No question, enterprises large and small have realized the benefits of rapidly deployable, reasonably priced and extremely scalable public computing infrastructure. According to Forbes, the global cloud computing market will reach $411 billion this year.
+
+But what about the security? Is it up to snuff?
+
+Not really, even though some public cloud purveyors offer some encryption as an option and sometimes by default. This step is hardly foolproof, however, and that should come as no surprise. After all, data in the cloud is stored with a third-party provider and accessed over the internet. This means visibility and control over that data—including its security—is limited.
+
+Fact is, cloud service providers treat cloud security risks as a shared responsibility. The good news is that some cloud companies allow clients to encrypt their data before sending it to the cloud, and it’s becoming increasingly clear that this—or possibly the additional option of adopting a few other proven, state-of-the-art fixes for cloud security—is the preferred route for truly security-conscious enterprises.
+
+That enhanced data encryption in the cloud makes sense began circulating roughly two-and-a-half years ago, when technology and cloud giant Accenture confirmed that it inadvertently left a gigantic store of private data access across four unsecured cloud servers. This exposed highly sensitive passwords and secret decryption keys that could have inflicted considerable damage on the company and its customers.
+
+Since then, misconfigured cloud settings have caused multiple incidents of data exposures in the Amazon Web Services cloud. In addition, a misconfiguration error in Microsoft’s Azure cloud exposed 250 million technical support accounts. Meanwhile, MVISION Cloud, a unit of McAfee, analyzed the encryption controls offered by more than 12,000 providers and found yet more shortcomings. While 82 percent of cloud service providers encrypt data in transit between the user and the cloud service, not even 10 percent of cloud providers encrypt data once it’s stored, MVISION found.
+
+According to CloudPassage, a software-as-a-service purveyor that provides security for private, public and hybrid clouds, one of the worst mistakes made by public cloud companies is having easily hacked administrative credentials—essentially the keys to the kingdom. As it turns out, attackers can execute a breach with a badly configured set of privileged credentials—a common occurrence, unfortunately, when a cloud company cuts corners in a rush to market.
+
+Other mistakes among public crowd companies include exposed data assets, weak network access control and poor event logging, which impedes efforts to detect, contain and analyze compromises in the cloud.
+
+On the bright side, there are companies today that help enterprises adopt cloud encryption. One—born out of research done at MIT—is cybersecurity company PreVeil, whose end-to-end encryption could redefine cloud-based cybersecurity in a way that doesn’t interfere with workflows while still enabling popular cloud-based machine-learning applications.
+
+Another company with a different approach to the same end goal is Zscaler, which offers a Secure Web Gateway in the cloud via software-as-a service. No hardware is required. Zscaler decentralizes cybersecurity protection, allowing data to flow back and forth from a public cloud rather than redirecting it to clients’ own physical data centers.
+
+Another form of cryptography enhances the breadth of the science by offering fresh analytical capabilities as well as security—homomorphic encryption (HE). HE is attracting more attention from select technology companies such as IBM, Microsoft and Google, and startups such as Enveil, and slowly growing. HE makes it possible to analyze or manipulate encrypted data without revealing the data to anyone, offering huge potential in areas with sensitive personal data such as in financial services or healthcare—areas in which the privacy of a person is paramount.
+
+The biggest barrier to widespread adoption of HE is that it is still very slow and so not yet practical for many applications. Nonetheless, company researchers are working diligently to speed up the process by decreasing the required computational overhead.
+
+Microsoft, for example, has created SEAL, a set of encryption libraries that allow computations to be performed directly on encrypted data. SEAL is partnering with companies to build end-to-end encrypted data storage and computation services. Google—another tech giant that has moved into the field—last year unveiled an open-source cryptographic tool similarly focused on analyzing data in its encrypted form with only the insights derived from the analysis visible, not the underlying data itself.
+
+An even more futuristic development that cryptography-minded folks should be aware of—although in this case, in a blatantly negative sense—is quantum computing, based on the principles of quantum physics.
+
+At least a decade away, ultra-fast quantum computers could perform calculations exponentially faster than classic computers—in the wrong hands potentially enabling the destruction of the encryption protecting their data. Fortunately, there is also some good news on this front. The National Institute of Standards and Technology is already pushing researchers to analyze potential problems in this “post-quantum” era. Meanwhile, IBM has already successfully demonstrated a quantum-proof encryption method it developed.
+
+For now, here are six security tips for companies moving to public or even multi-cloud environments and concerned about cryptography and related security disciplines.
+
++ Get the basics right. Establish a strategy for multi-cloud encryption and the management of cryptography keys before expanding to more advanced crypto technologies.
+
++ Leverage encryption as part of your broader IT security efforts. Companies that don’t have effective data classification and/or a prioritization program in place tend to struggle with data encryption. Data classification policies and tools facilitate the separation of valuable information that may be targeted from less valuable information.
+
++ Build in crypto agility. This refers to the capacity for an information security system to adopt an alternative to the original encryption method without significant change to system infrastructure. Be ready to replace or retire your deployed cryptography as needed.
+
++ Ensure that only authorized users can access data. This is critical to prevent tampering by anyone inside or outside the organization. Audit access controls regularly to ensure their validity.
+
++ Develop robust plans for business continuity and disaster recovery of crypto keys. Inventory keys and cryptographic libraries so you can recover your data alongside your protection mechanisms.
+
++ Make sure your cryptography is integrated into the DevSecOps world. Ensure that DevOps teams choose crypto libraries that follow secure coding practices.
+
+In the final analysis, encryption is tough stuff, but extremely important in the world of security. Companies that embrace it and incorporate it properly are taking an additional big step to protect their data and their reputation in a world inundated by embarrassing, hurtful and costly cyber-breaches.
+
+Now that cloud computing has introduced encryption widely, security-minded companies are under growing pressure to keep the ball rolling and help move on to next steps.
+
+
+
+
+
+
+With the ongoing loom of the Covid-19 pandemic, organizations bear the brunt of technology challenges to fathom!
+Technology is progressing and so are the challenges that surround it. These challenges grow multi-fold if we take into consideration the concerns that come from Covid-19 pandemic and business resiliency bottlenecks. From the perspective of information security, risk management, data security and big data are the biggest challenges that businesses need to overcome concerning how to protect their data. As Businesses grapple with the new normal post the pandemic, here are the 10 Technology Challenges to Conquer for Digital Transformation–
+
+Internet of Things
+Electronic tagging and tracking of objects and people with bar codes, RFID devices and other technologies leave public data open about an individual’s locations, movements and status. “Internet of Things” is on the cusp of becoming reality. While it may offer many benefits to businesses, the privacy issues posed by the Internet of Things are similar to the issues surrounding “Big Data.”
+
+Cloud Computing
+Cloud computing continues to show a great promise to assure major cost savings for businesses and convenience for consumers. Concerns of privacy and data security in the cloud will be a critical bottleneck for businesses. Yet, as more software applications and other computing resources are hosted and accessed online in the “cloud,” data privacy and security risks would increase, contracting and licensing norms are evolving getting complex and increasingly difficult to manage.
+
+Open Source Architecture
+Non-proprietary open source software applications have a lot to offer which include costs savings, but compliance with open source license terms would prove to be tricky. The use of open-source software can compromise ownership of company software, if not handled properly.
+
+Data Protection
+Forward-thinking organizations are now implementing privacy by design in their products, but making sure those efforts meet GDPR standards is a long-debated concern. Google, for example, just saw a record fine by French regulators over how the company collects the French user’s data.
+
+Data Security Challenges
+Data security concerns posed by technological advances will be a significant concern in the year ahead. Data-related issues permeate across the enterprises. Leaving data pipelines exposed means data spillage, increasing the possibilities for data breaches. While data regulations continue to raise data standards for security practices, dynamic enterprises also expect greater accountability for these standards.
+
+Big Data
+This is the world of Big Data, computer and connected device users create over 2.5 quintillion bytes of data daily! Technologies to analyse, use, and, in some cases, commercialize such vast amounts of data will be a priority These devices would begin to be more widely deployed. However, the significant productivity gains and commercial opportunities would be offset by serious security concerns and encroachments on privacy. Major issues will include who should control and be compensated for such data.
+
+Social Data Privacy
+Widespread business use of social media tools communication which stakeholders must fathom with each other to honour data governance and acceptable practices. This would ensure compliance with applicable terms. Though many legal pitfalls exist, including failure to comply with relevant FTC guidelines and inadvertent infringements of third-party intellectual property rights when posting content. Social data privacy concerns cannot be ruled out.
+
+Multi-cloud security
+When exploring new cloud-based services, CIOs now need to ask about security across multiple platforms, as they move about to the cloud for business continuity. Public, Private and Hybrid cloud security will be of main concern.
+
+Mobile Payments
+Several consumer surveys studies and surveys point that if businesses keep a better track of mobile network and customer keep a better vigilance over their phone malicious phone payments, misdirected payments, unauthorized access and account balance mistakes can be tracked and taken care of.
+
+Wearable Technology
+Google Glass, computer watches and other wearable computing devices push the boundary of mobile computing even further than the wonders of the current smartphones and tablets. They integrate biometric monitoring to offer potential conveniences but all these come with additional risks involved. The privacy, security and liability issues with such devices will likely miniature concerns that are raised by our non-wearable mobile handsets.
+
+
+
+
+
+In-memory computing increasingly is being tapped for its speed and security capabilities
+
+As our world embraces online interactions more, it’s important to pay close attention to the speed and security of the systems that drive those exchanges. Both requirements translate into a better user experience, which is a top priority for any business in today’s customer-centric environment. Speed, however, is not only about handling large volumes of interactions or throughput. It also entails low-latency processing to give customers faster responses to their requests.
+
+Yet security, an obvious requirement for data protection and privacy, often doesn’t get the level of attention it needs. Businesses today are challenged with addressing both requirements together, even if they sometimes conflict. So how do organizations properly approach both to ensure online traffic growth is handled in a way the business prospers?
+
+Issues of Speed Vary by Organization
+Let’s consider some of the issues regarding speed and security. There are four main components of any system that determine the overall speed. The first is computer hardware, especially the CPU and random-access memory (RAM). Upgrading to faster components or adding more of them can provide an incremental performance boost. The second is storage media, as access to hard drives and solid-state drives (SSDs) contribute to a significant amount of latency in enterprise systems. The third is the network, which can be a bottleneck in distributed systems that require ongoing internode communications. And finally,  applications themselves can drive performance, with those architected for high concurrency and optimal use of available resources delivering the highest performance.
+
+The first three components are seemingly easy to address since the solution is simply to purchase faster equipment. The costs associated here can cause obvious issues. Though, with the decreasing price of RAM and the availability of cost-effective memory technologies such as Intel Optane, using additional memory is a more viable option today. Deployment on the public cloud makes the upgrade process a bit easier, too, as you can change hardware instances with relative ease. However, upgrading equipment and instances are only a small part in gaining the performance levels you need.
+
+Optimizations in application code can result in solid performance gains, but the process requires a lot of development and testing effort. Running profiling tools to assess the bottlenecks helps you quickly identify the areas that need to be addressed, allowing you to implement strategies to resolve those issues. For example, you might try to reduce the number of individual accesses to network and storage media by either batching requests together or caching data in memory. The coding effort requires a lot of analysis and refactoring, though, and the end gain may not be as great as expected.
+
+Speed and Security Must Work Together
+As you assess how to gain more performance, you must also look at security, particularly access controls, in your applications. Unfortunately, security controls typically impact speed due to the extra level of processing to safeguard your systems. Extra checks for needs such as proper access controls mean there is an added delay to the processing. And non-implemented security controls can be just as big an inhibitor for speed. For example, some systems use built-in caches to speed up access to stored data or precomputed data. If that cache lacks security capabilities, it leaves sensitive data vulnerable to unauthorized access, which could result in bigger issues. So, even if you have a built-in cache that offers improved performance, the lack of security controls means your security team will prohibit the use of the cache.
+
+Where In-Memory Computing Proves Essential
+How can we address both speed and security? One class of technology that has been growing in recent years to boost application performance is in-memory computing platforms. The notion of in-memory computing, in which data resides entirely in RAM with no spillover to disk, has been around for many years. However, it has mostly been relegated to only the most demanding applications. As more applications today face a high bar for customer expectations, along with the aforementioned trends around memory technologies, in-memory computing is becoming a mainstream and possibly even essential choice for businesses.
+
+Many IT professionals associate “in-memory” with caching, but technologies focused on basic caching use cases typically lack the security infrastructure needed to handle sensitive data common today. They also lack other provisions to take advantage of a distributed system and enable parallel processing.
+
+On the other hand, more evolved in-memory computing platforms, like in-memory data grids (IMDGs), have evolved to support a comprehensive set of capabilities. This includes security to run business-critical production deployments. Features such as TLS or SSL to encrypt over-the-wire transmissions and authentication or authorization to define user permissions help to secure sensitive data. Since IMDG data is stored in memory, the latency of disk access is largely eliminated. IMDGs also add performance by letting you submit “jobs”—applications that are automatically copied to each node in the cluster. This then lets you run a parallelized, distributed application to tackle tasks that can be broken down into smaller subtasks.
+
+One big gain of this technique is data locality, in which processing is done on the same node as the data. Each instance of the application processes the local in-memory data, which means there are generally no network accesses to slow the system. In cases where some data needs to be retrieved from the network, a feature known as near-cache will copy the remote data to the local node to cache it and thus eliminate future network requests for that data.
+
+Of course, speed and security are just one part of implementing an in-memory computing platform, as it also needs to be simple to use. An easily accessible software package (especially open source), a familiar API based on industry standards, prebuilt connectors to various data sources and security integrations with existing systems such as LDAP, all help. Ease of use with security is especially important. Difficulties with security features will cause IT professionals to put off the implementation to a later time—possibly when it is too late.
+
+In-memory has long been associated with high costs, but with decreasing RAM prices, innovations such as Intel Optane technology and growing customer expectations on the user experience, the time for in-memory is now.
+
+
+
+
+
+
+The next generation of super computers will be faster, more efficient, revolutionary – and potentially, dangerous.
+
+With the ability to make calculations in minutes that would take today’s most advanced computers thousands of years, quantum computers will be in a league of their own. Among the benefits they are anticipated to bring are improvements for solar panels, electric car batteries, financial and weather forecasts and even finding a cure for Alzheimer’s.
+
+But it’s the application of quantum computers to encryption and security that is grabbing the headlines. Their ability to break down the vast majority of currently used cryptography, and therefore penetrate government, military and financial networks, is both impressive and scary at the same time.
+
+What is Quantum Computing?
+In a nutshell, quantum computing is a victory over uncertainty. Computers work on the basis of a binary understanding where ‘bits’ either represent a ‘0’ or a ‘1’ outcome – essentially a heads or tails scenario where the outcome is measured when the coin lands. Quantum computing allows the for the outcome to be measured while the coin is still spinning in the air – meaning the value is both heads and tails simultaneously.
+
+QuantumComputing-20
+
+The quibit, or quantum bit, allows for multiple values to be stored at once. To put this in some kind of context, there are, as Luther Martin from security solutions company Micro Focus observes, “between 1078 to 1082 atoms in the visible universe, so a single register of just 265 qubits can simultaneously hold about as many values as there are atoms in the universe.”
+
+What are the threats created by quantum computers?
+The huge capacity of a quantum computer means a massive decryption capability. Luther references an algorithm running on a quantum computer “that reduces the security of a 3.072 bit RSA key down to only about 26 bits” – in other words easily cracked will a mobile phone. CEO and co-founder of banking technology supplier Neocova and Professor at Washington University, Sultan Meghji, likens the potential of quantum computing on encryption to “how the Allies broke Enigma in World War Two.”
+
+Just how big a deal this is cannot be overstated.
+
+“One of the fundamental building blocks for making digital technologies secure is cryptography,” notes Michele Mosca, a founder of and Professor at the Institute for Quantum Computing at the University of Waterloo, Canada.
+
+“Cryptographic algorithms allow us to obtain trustworthy results while using systems that are not entirely trustworthy. For example, trusted endpoints can communicate through an untrusted telecommunications system and guarantee the confidentiality of their messages using encryption algorithms and guarantee the origin and integrity of the messages using digital signature algorithms.”
+
+Quantum computers would break all of this.
+
+Mosca identifies four specific risks from the fallout of this big data bang:
+
+Confidential data, protected by these algorithms, that is stored can be decrypted and exploited later once quantum computers are available to adversaries.
+If quantum-safe alternatives are not ready in time, it could also mean the systemic collapse of digital systems that deeply rely on these building blocks. This would impact essentially all critical infrastructures.
+If migration to quantum-safe system is managed as a crisis, the rush will lead to flawed designs and implementations that will be vulnerable to conventional attacks. Inter-operability with other systems in the respective digital ecosystems is also likely to be compromised.
+If lack of quantum readiness becomes apparent, people may lose faith in the security of digital systems, and the institutions responsible for the availability and security of these systems. Trust and confidence in our institutions is critical for the healthy functioning of society.
+It’s pretty apocalyptic stuff and it sounds a bit like the hype over Y2K, but with actual peril.
+
+Sultan Meghji thinks the Y2K analogy fits, but he’s less concerned about ‘general use’ computers (e.g. laptops, cloud sharing machines) that are “many years away from broad spectrum utility and availability” than with existing ‘specific use’ devices such as China’s Quantum Science Satellite, known as Mozi, launched in 2016 and, this year, paired with the world’s first portable ground station for sending and receiving secure quantum communications.
+
+“It is that second category that poses the largest, most immediate potential threat to security. Devices like these could nullify all encryption currently used today, ranging from encryption that protects a consumer’s credit cards on the internet to that which guards a president of a country’s communications with his or her military leadership. “
+
+With the recent UK government decision to ban Huawei from assembling its 5G network, following the US decision, China’s role in the global security ecosystem has again been in the spotlight. China is, however, seemingly unabashed in its ongoing aim to be the dominant global power and its use of tech to get there. While it eschews the idea that state and commerce are one and the same, for many observers China’s hoovering up of old data to be decrypted later, its ownership of data-rich companies such as TikTok (now the subject of US investor efforts to buy it from its Chinese owner) and its investment and boardroom presence in western tech start-ups all point to a consolidation and advancement of its world standing.
+
+Sultan Meghji asks: “What happens if, in November this year, the Chinese bring on stream an industrialised-scale offensive quantum encryption hacking programme that can break every single piece of encryption out there and we just don’t know about it for years until the defensive systems come online? We are in the beginning of this grey window that will last for some number of years where there will be a disconnect between the offensive capability and the defensive capability of everyone else.”
+
+The quantum-assisted chaos scenario that concerns Meghji the most is a covert attack on a bank and altering debt payments. “Financial services is the most full of risk right now and, after national military infrastructure, the biggest target.”
+
+What can be done to protect against the Quantum threat?
+There’s a general consensus among cyber experts and industry experts that battling quantum decryption doesn’t have to be rocket science even if it will be time consuming.
+
+“In theory, it’s simple,” says Michele Mosca. “Replace the public-key algorithms we depend on with alternatives that are designed to resist quantum attacks. In practice, this is a massive and multi-faceted undertaking that takes 10-20 years to do properly. Much remains to be done, and more stakeholders will need to join the effort.”
+
+As Mosca says, many of the steps toward migrating systems to quantum-safe cryptography, (both “post-quantum” cryptography and quantum cryptography) are already underway, and Luther Martin, writing in TechBeacon, thinks that many businesses will already be adopting them.
+
+“Attacks that can run on quantum computers simply divide the number of bits of security that an AES [Advanced Encryption Standard] key provides by two,” says Martin. “A 256-bit AES key will provide 128 bits of security, etc. So if you are already using AES-256, you are already using an encryption algorithm that will provide an adequate level of security against quantum computers.”
+
+Meanwhile, Honeywell (who claim to have built the most powerful quantum computer yet, though, unlike Google, have not claimed ‘quantum supremacy’ i.e. the ability to make calculations that no over classical computer can) believe that the solution is within the problem. “The beauty of quantum computing,” says Tony Uttley, President of Honeywell Quantum Solutions “is that quantum computers have the potential to be a tool that works in both directions. This means that there are opportunities for quantum computers to provide quantum randomness to become a part of the encryption process itself.”
+
+Michele Mosca’s steps for CTOs, CSOs or any other relevant postholders:
+
+identify someone responsible for quantum readiness and make sure they have sufficient resources and executive level support.  
+Said person to make an initial assessment of quantum risk to their organisation and start plotting prioritised next steps. 
+Next steps include developing quantum-safe migration roadmaps and engaging in discussions with other interdependent organisations, e.g. procurement managers requesting information about quantum readiness from their suppliers and communicating expectations and requirements to their suppliers.
+While Sultan Meghji also believes that shoring up many systems against the quantum threat can be simple enough, recalling the rollout of Transport Layer Security protocols 1.0 and 1.1 as being “fairly straightforward”, he also knows that despite the simplicity and being inexpensive “there will be laggards…there are still organisations out there using TLS 1.0  which you or I could hack with our smartphone.”
+
+Investment is crucial for Meghji. “If I was responsible for research budgets for either of our two nations I would put 10 times whatever the number is of investment in cyber and 10 times whatever the investment is in quantum computing – and that’s on the low end.”
